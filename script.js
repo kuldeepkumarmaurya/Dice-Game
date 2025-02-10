@@ -55,3 +55,6 @@ function roledice(){
         gameResult.innerText = " 😂 Draw ! 😂"
     }
 }
+
+
+// this is new added 
